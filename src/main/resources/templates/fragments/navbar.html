@@ -1,0 +1,30 @@
+<nav class="navbar navbar-expand-lg bg-white border-bottom mb-4" th:fragment="mainNav(activePage)">
+    <div class="container">
+        <a class="navbar-brand" th:href="@{/dashboard}">Security Analysis System</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="mainNav">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link" th:classappend="${activePage == 'dashboard'} ? ' active'" th:href="@{/dashboard}">Dashboard</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" th:classappend="${activePage == 'assets'} ? ' active'" th:href="@{/assets}">Объекты</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" th:classappend="${activePage == 'threats'} ? ' active'" th:href="@{/threats}">Угрозы</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" th:classappend="${activePage == 'reports'} ? ' active'" th:href="@{/reports}">Отчеты</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" th:classappend="${activePage == 'users'} ? ' active'" th:href="@{/users}">Пользователи</a>
+                </li>
+            </ul>
+            <form th:action="@{/logout}" method="post" class="d-flex">
+                <button type="submit" class="btn btn-outline-secondary btn-sm">Выйти</button>
+            </form>
+        </div>
+    </div>
+</nav>
