@@ -1,3 +1,7 @@
+/**
+ * Репозиторий пользователей: доступ к данным пользователей и поиск по логину.
+ */
+
 package com.byprogger.security_analysis_system.repository;
 
 import com.byprogger.security_analysis_system.entity.User;

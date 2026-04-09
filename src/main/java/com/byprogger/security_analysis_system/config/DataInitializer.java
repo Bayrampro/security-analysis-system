@@ -1,3 +1,7 @@
+/**
+ * Инициализация демонстрационных данных: стартовые пользователи, объекты защиты и угрозы.
+ */
+
 package com.byprogger.security_analysis_system.config;
 
 import com.byprogger.security_analysis_system.dto.AssetDto;

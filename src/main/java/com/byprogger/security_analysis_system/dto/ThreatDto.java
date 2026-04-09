@@ -1,3 +1,7 @@
+/**
+ * DTO угрозы: входные данные формы/API для создания и редактирования угрозы.
+ */
+
 package com.byprogger.security_analysis_system.dto;
 
 import jakarta.validation.constraints.DecimalMax;

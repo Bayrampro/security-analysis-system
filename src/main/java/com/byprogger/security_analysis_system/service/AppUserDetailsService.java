@@ -1,3 +1,7 @@
+/**
+ * Сервис интеграции с Spring Security: загружает пользователя и его роль для аутентификации.
+ */
+
 package com.byprogger.security_analysis_system.service;
 
 import com.byprogger.security_analysis_system.entity.User;

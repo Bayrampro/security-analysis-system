@@ -1,3 +1,7 @@
+/**
+ * Сервис объектов защиты: бизнес-логика CRUD и преобразование сущности в DTO.
+ */
+
 package com.byprogger.security_analysis_system.service;
 
 import com.byprogger.security_analysis_system.dto.AssetDto;

@@ -1,3 +1,7 @@
+/**
+ * Перечисление ролей пользователей: ADMIN и ANALYST.
+ */
+
 package com.byprogger.security_analysis_system.entity;
 
 // Роли пользователей в системе.

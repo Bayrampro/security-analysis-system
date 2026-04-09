@@ -1,3 +1,7 @@
+/**
+ * DTO dashboard: агрегированные метрики и наборы данных для графиков.
+ */
+
 package com.byprogger.security_analysis_system.dto;
 
 import java.util.LinkedHashMap;

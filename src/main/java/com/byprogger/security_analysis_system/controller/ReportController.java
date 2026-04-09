@@ -1,3 +1,7 @@
+/**
+ * Контроллер отчетов: фильтрация по датам и вывод сводной аналитики по рискам.
+ */
+
 package com.byprogger.security_analysis_system.controller;
 
 import com.byprogger.security_analysis_system.dto.ReportFilterDto;

@@ -1,3 +1,7 @@
+/**
+ * Конфигурация Spring Security: правила доступа, форма логина, logout, CSRF и PasswordEncoder.
+ */
+
 package com.byprogger.security_analysis_system.config;
 
 import org.springframework.context.annotation.Bean;

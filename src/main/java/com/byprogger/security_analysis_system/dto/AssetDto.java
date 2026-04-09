@@ -1,3 +1,7 @@
+/**
+ * DTO объекта защиты: данные формы создания/редактирования объекта.
+ */
+
 package com.byprogger.security_analysis_system.dto;
 
 import jakarta.validation.constraints.NotBlank;

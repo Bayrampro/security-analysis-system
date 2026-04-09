@@ -1,3 +1,7 @@
+/**
+ * Контроллер dashboard: передает агрегированные метрики и данные графиков в представление.
+ */
+
 package com.byprogger.security_analysis_system.controller;
 
 import com.byprogger.security_analysis_system.dto.DashboardMetricsDto;

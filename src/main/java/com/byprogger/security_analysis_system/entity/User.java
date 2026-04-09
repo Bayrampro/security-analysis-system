@@ -1,3 +1,7 @@
+/**
+ * Сущность пользователя системы: хранит логин, хэш пароля и роль доступа.
+ */
+
 package com.byprogger.security_analysis_system.entity;
 
 import jakarta.persistence.Column;

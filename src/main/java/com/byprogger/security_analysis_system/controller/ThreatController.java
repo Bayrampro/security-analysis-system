@@ -1,3 +1,7 @@
+/**
+ * Контроллер угроз: отображение реестра угроз, создание, редактирование и удаление.
+ */
+
 package com.byprogger.security_analysis_system.controller;
 
 import com.byprogger.security_analysis_system.dto.ThreatDto;

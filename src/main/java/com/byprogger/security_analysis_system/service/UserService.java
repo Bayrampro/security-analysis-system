@@ -1,3 +1,7 @@
+/**
+ * Сервис пользователей: регистрация, создание стартовых аккаунтов и выдача списка пользователей.
+ */
+
 package com.byprogger.security_analysis_system.service;
 
 import com.byprogger.security_analysis_system.dto.UserRegistrationDto;

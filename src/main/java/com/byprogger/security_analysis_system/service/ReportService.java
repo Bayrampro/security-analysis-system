@@ -1,3 +1,7 @@
+/**
+ * Сервис отчетов: формирует отчетные строки и сводку по уровням риска.
+ */
+
 package com.byprogger.security_analysis_system.service;
 
 import com.byprogger.security_analysis_system.dto.ReportFilterDto;

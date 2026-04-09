@@ -1,3 +1,7 @@
+/**
+ * DTO фильтра отчета: диапазон дат для отбора угроз.
+ */
+
 package com.byprogger.security_analysis_system.dto;
 
 import org.springframework.format.annotation.DateTimeFormat;

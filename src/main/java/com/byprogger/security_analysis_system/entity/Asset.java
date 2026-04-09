@@ -1,3 +1,7 @@
+/**
+ * Сущность объекта защиты: описывает защищаемый ресурс и связанные угрозы.
+ */
+
 package com.byprogger.security_analysis_system.entity;
 
 import jakarta.persistence.CascadeType;

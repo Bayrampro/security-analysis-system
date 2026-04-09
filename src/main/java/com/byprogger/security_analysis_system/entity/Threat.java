@@ -1,3 +1,7 @@
+/**
+ * Сущность угрозы: хранит параметры риска, привязку к объекту и дату создания.
+ */
+
 package com.byprogger.security_analysis_system.entity;
 
 import jakarta.persistence.Column;

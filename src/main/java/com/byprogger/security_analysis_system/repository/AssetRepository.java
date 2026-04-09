@@ -1,3 +1,7 @@
+/**
+ * Репозиторий объектов защиты: базовые операции JPA и поиск по имени объекта.
+ */
+
 package com.byprogger.security_analysis_system.repository;
 
 import com.byprogger.security_analysis_system.entity.Asset;

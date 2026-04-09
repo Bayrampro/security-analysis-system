@@ -1,3 +1,7 @@
+/**
+ * Репозиторий угроз: базовые операции JPA и выборка угроз по диапазону дат.
+ */
+
 package com.byprogger.security_analysis_system.repository;
 
 import com.byprogger.security_analysis_system.entity.Threat;

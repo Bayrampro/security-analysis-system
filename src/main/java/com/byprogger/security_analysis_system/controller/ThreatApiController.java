@@ -1,3 +1,7 @@
+/**
+ * REST API-контроллер угроз: методы получения списка, создания и удаления угроз.
+ */
+
 package com.byprogger.security_analysis_system.controller;
 
 import com.byprogger.security_analysis_system.dto.ThreatDto;

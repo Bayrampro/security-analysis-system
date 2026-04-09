@@ -1,3 +1,7 @@
+/**
+ * DTO регистрации: входные данные формы создания пользователя и валидация полей.
+ */
+
 package com.byprogger.security_analysis_system.dto;
 
 import com.byprogger.security_analysis_system.entity.Role;

@@ -1,3 +1,7 @@
+/**
+ * Контроллер объектов защиты: отображение списка и CRUD-операции через web-формы.
+ */
+
 package com.byprogger.security_analysis_system.controller;
 
 import com.byprogger.security_analysis_system.dto.AssetDto;

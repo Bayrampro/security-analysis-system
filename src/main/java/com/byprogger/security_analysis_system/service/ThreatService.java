@@ -1,3 +1,7 @@
+/**
+ * Сервис угроз: CRUD, расчет уровня риска, рекомендации и выборки для отчетности.
+ */
+
 package com.byprogger.security_analysis_system.service;
 
 import com.byprogger.security_analysis_system.dto.ThreatDto;

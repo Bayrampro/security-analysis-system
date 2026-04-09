@@ -1,3 +1,7 @@
+/**
+ * DTO представления угрозы: данные для таблиц, отчетов и ответов API.
+ */
+
 package com.byprogger.security_analysis_system.dto;
 
 import com.byprogger.security_analysis_system.entity.RiskLevel;

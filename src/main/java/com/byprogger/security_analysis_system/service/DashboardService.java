@@ -1,3 +1,7 @@
+/**
+ * Сервис dashboard: агрегирует статистику по рискам, объектам и динамике угроз.
+ */
+
 package com.byprogger.security_analysis_system.service;
 
 import com.byprogger.security_analysis_system.dto.DashboardMetricsDto;

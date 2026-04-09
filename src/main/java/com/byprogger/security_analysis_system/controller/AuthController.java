@@ -1,3 +1,7 @@
+/**
+ * Контроллер аутентификации и регистрации: страницы входа и создание учетной записи.
+ */
+
 package com.byprogger.security_analysis_system.controller;
 
 import com.byprogger.security_analysis_system.dto.UserRegistrationDto;

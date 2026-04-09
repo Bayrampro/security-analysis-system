@@ -1,3 +1,7 @@
+/**
+ * Точка входа Spring Boot-приложения: запускает систему анализа защищенности.
+ */
+
 package com.byprogger.security_analysis_system;
 
 import org.springframework.boot.SpringApplication;

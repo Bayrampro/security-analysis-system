@@ -1,3 +1,7 @@
+/**
+ * Контроллер пользователей: отображение списка учетных записей для администратора.
+ */
+
 package com.byprogger.security_analysis_system.controller;
 
 import com.byprogger.security_analysis_system.service.UserService;

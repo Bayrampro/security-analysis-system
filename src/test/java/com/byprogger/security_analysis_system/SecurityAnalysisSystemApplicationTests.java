@@ -1,3 +1,7 @@
+/**
+ * Базовый интеграционный тест: проверяет успешный старт контекста Spring Boot.
+ */
+
 package com.byprogger.security_analysis_system;
 
 import org.junit.jupiter.api.Test;
